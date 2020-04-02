@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4Wtk+M0MZlygZyzAx/lTKvP4YwqMNcGNjpf6BXTvFY9gOXR8jiV9IadScBjBsr2rqWUOLmd1cIDxISNOIkYtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enigm\\source\\repos\\XamarinCursosRepo\\GitRepoEjemplo\\GitRepoEjemplo\\GitRepoEjemplo.iOS\\GitRepoEjemplo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enigm\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
